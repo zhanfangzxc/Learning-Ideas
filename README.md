@@ -8,3 +8,8 @@
 
 * [郭霖大神的drawable微技巧](http://blog.csdn.net/guolin_blog/article/details/50727753#java)
 
+### Learning-Ideas项目
+
+- recyclerview包
+
+	- recyclerview滑动删除以及拖动
